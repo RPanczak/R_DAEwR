@@ -27,3 +27,6 @@
 
 # Project specific
 misc/
+
+# Mac
+.DS_Store
